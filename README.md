@@ -1,4 +1,7 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxqxam&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxqxam&count_private=true&show_icons=true&theme=merko" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxqxam)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxqxam&layout=compact&count_private=true&show_icons=true&theme=merko" />
+</a>
